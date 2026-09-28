@@ -1,5 +1,7 @@
 # ZhuaTech ImageGen｜知华科技企业文生图创意工作台
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech ImageGen 是上海如静知华信息科技有限公司开发的独立文生图案例。系统不绑定某一家生成模型，而是先完成企业创意结构化、品牌约束、提示词变体与合规门禁，再把标准任务交给使用者自行配置的图片生成 Provider。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.imagegen` · API `POST /api/imagegen/plan`
